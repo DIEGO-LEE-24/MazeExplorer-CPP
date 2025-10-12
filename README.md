@@ -4,20 +4,6 @@
 
 Maze Explorer es un videojuego educativo avanzado desarrollado en C++ utilizando la librería Allegro 5. El proyecto implementa **cuatro algoritmos diferentes** de generación procedural de laberintos y resolución automática mediante BFS (Breadth-First Search), combinando conceptos avanzados de estructuras de datos, algoritmos de grafos, programación orientada a objetos y desarrollo de videojuegos.
 
-## 🎥 Video Demostrativo
-
-**[▶️ Ver Video Demostrativo Completo](https://youtu.be/Kt0ZhN3iNSI)**
-
-El video demuestra todas las características del juego:
-- ✅ Navegación por menús y selección de opciones
-- ✅ Gameplay en los 3 niveles de dificultad (Fácil, Normal, Difícil)
-- ✅ Los 4 algoritmos de generación en acción
-- ✅ Modo Demo con visualización de BFS
-- ✅ Sistema de estadísticas y persistencia de datos
-- ✅ Todas las funcionalidades implementadas
-
----
-
 ## Características Principales
 
 ### Generación de Laberintos
@@ -371,6 +357,3 @@ Para preguntas sobre el proyecto:
 **Estado**: Completado y Funcional  
 
 **Nota**: Este proyecto representa la aplicación práctica de conceptos avanzados de programación en C++, estructuras de datos, algoritmos de grafos, y desarrollo de videojuegos.
-```
-
----
