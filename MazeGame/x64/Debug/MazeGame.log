@@ -1,0 +1,40 @@
+﻿  Maze.cpp
+  MazeGame.cpp
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(174,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(524,16): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(531,16): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(535,12): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(541,26): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(542,17): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(545,26): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(546,17): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(549,32): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(550,17): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(553,26): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(554,17): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(557,28): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(558,17): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(568,20): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(1045,16): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\diego\Downloads\MazeGame\MazeGame.cpp(1054,12): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+  MazeGenerator.cpp
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(77,73): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(77,73): warning C4267:         with
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(77,73): warning C4267:         [
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(77,73): warning C4267:             _Ty=int
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(77,73): warning C4267:         ]
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(115,69): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(115,69): warning C4267:         with
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(115,69): warning C4267:         [
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(115,69): warning C4267:             _Ty=int
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(115,69): warning C4267:         ]
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(129,81): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(129,81): warning C4267:         with
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(129,81): warning C4267:         [
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(129,81): warning C4267:             _Ty=int
+C:\Users\diego\Downloads\MazeGame\MazeGenerator.cpp(129,81): warning C4267:         ]
+  MazeSolver.cpp
+  Player.cpp
+  Statistics.cpp
+  Generating Code...
+  MazeGame.vcxproj -> C:\Users\diego\Downloads\MazeGame\x64\Debug\MazeGame.exe
