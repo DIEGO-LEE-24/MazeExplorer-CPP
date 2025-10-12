@@ -30,6 +30,21 @@ Maze Explorer es un videojuego educativo avanzado desarrollado en C++ utilizando
 - **Persistencia de datos**: Almacenamiento de estadísticas en archivo CSV
 - **Arquitectura modular**: Código limpio con separación de responsabilidades
 
+## 🎥 Video Demostrativo
+
+[![Maze Explorer Demo](https://img.youtube.com/vi/Kt0ZhN3iNSI/maxresdefault.jpg)](https://youtu.be/Kt0ZhN3iNSI)
+
+**[▶️ Ver Demostración Completa en YouTube](https://youtu.be/Kt0ZhN3iNSI)**
+
+El video muestra todas las características del juego:
+- ✅ Navegación por menús y opciones
+- ✅ Gameplay en los 3 niveles de dificultad
+- ✅ Los 4 algoritmos de generación
+- ✅ Modo Demo con resolución automática BFS
+- ✅ Sistema de estadísticas completo
+
+---
+
 ## Requisitos del Sistema
 
 ### Software Necesario
