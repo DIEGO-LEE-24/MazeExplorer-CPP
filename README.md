@@ -30,6 +30,39 @@ Maze Explorer es un videojuego educativo avanzado desarrollado en C++ utilizando
 - **Persistencia de datos**: Almacenamiento de estadísticas en archivo CSV
 - **Arquitectura modular**: Código limpio con separación de responsabilidades
 
+Maze Explorer es un videojuego educativo avanzado desarrollado en C++ utilizando la librería Allegro 5. El proyecto implementa **cuatro algoritmos diferentes** de generación procedural de laberintos y resolución automática mediante BFS (Breadth-First Search), combinando conceptos avanzados de estructuras de datos, algoritmos de grafos, programación orientada a objetos y desarrollo de videojuegos.
+
+## 🎥 Videos Demostrativos
+
+### Video 1: Demostración de Gameplay
+[![Maze Explorer - Gameplay Demo](https://img.youtube.com/vi/Kt0ZhN3iNSI/maxresdefault.jpg)](https://youtu.be/Kt0ZhN3iNSI)
+
+**[▶️ Ver Demostración de Gameplay en YouTube](https://youtu.be/Kt0ZhN3iNSI)**
+
+Este video muestra todas las características del juego en acción:
+- ✅ Navegación por menús y opciones
+- ✅ Gameplay en los 3 niveles de dificultad
+- ✅ Los 4 algoritmos de generación funcionando
+- ✅ Modo Demo con resolución automática BFS
+- ✅ Sistema de estadísticas completo
+
+---
+
+### Video 2: Documentación Técnica - Análisis de Algoritmos
+[![Maze Explorer - Análisis Técnico](https://img.youtube.com/vi/UaUpQ3i1Izc/maxresdefault.jpg)](https://youtu.be/UaUpQ3i1Izc)
+
+**[▶️ Ver Explicación Técnica de Algoritmos en YouTube](https://youtu.be/UaUpQ3i1Izc)**
+
+Este video técnico cubre en profundidad:
+- 🔍 Explicación detallada de los 4 algoritmos de generación
+- 📊 Análisis de complejidad temporal y espacial
+- 🏗️ Arquitectura del código y estructura de datos
+- 💡 Decisiones de diseño e implementación
+- 🔬 Comparación entre algoritmos (Recursive Backtracker, Prim's, Kruskal's, Eller's)
+- 🎯 Algoritmo BFS para resolución óptima
+
+---
+
 ## Requisitos del Sistema
 
 ### Software Necesario
